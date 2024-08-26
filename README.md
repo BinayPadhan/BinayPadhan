@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hi there! My name is Binay, a passionate coding enthusiast currently pursuing my studies at Veer Surendra Sai University of Technology, Burla. <br><br>I'm deeply intrigued by the world of programming and software development, constantly seeking to expand my knowledge and skills in various coding languages and technologies. 🌐💻<br><br>With a fervent dedication to mastering the art of coding, I'm excited to explore new challenges and contribute to innovative projects that push the boundaries of technology. 🚀<br><br>Join me on this exhilarating journey through the realms of code! 💡🔍
+👋 **Hi, I am Binay!** 
+
+I am an ardent **MERN stack programmer** 💻 with a solid background in **full-stack web development**. 
+What I excel at is creating **expandable user-focused applications** through:  
+- **MongoDB** 🍃  
+- **Express** 🚀  
+- **React** ⚛️  
+- **Node.js** 🌐  
+
+Outside the web development sphere, I have a long-standing curiosity about **Data Structures and Algorithms** 📊, which continuously enhances my problem-solving skills 🧠 to come up with efficient and optimized code. 
+My knowledge of both algorithms and backend/frontend allows me to devise pragmatic as well as inventive solutions 💡 to any challenges that businesses or users may face without compromising quality. ✨
 
 
 ## 🌐 Socials:
